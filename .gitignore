@@ -1,9 +1,0 @@
-# Böckernas lektioner, ska inte bli offentliga
-standard/
-lebanese/
-transkriptioner/
-*.pdf
-
-# Genererat av gen_print.py och Python
-kalla/print_*.html
-__pycache__/
